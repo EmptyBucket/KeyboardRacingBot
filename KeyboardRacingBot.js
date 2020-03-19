@@ -4,7 +4,7 @@
 // @version      1
 // @author       FessEmpty
 // @match 	 klavogonki.ru/
-// @downloadURL  https://gist.github.com/EmptyBucket/3d33cac791e9ff469b4d963fc41e1393/raw/dungeonCrawlBot.user.js
+// @downloadURL  https://raw.githubusercontent.com/EmptyBucket/KeyboardRacingBot/master/KeyboardRacingBot.js
 // @grant        none
 // ==/UserScript==
 
