@@ -1,10 +1,11 @@
 // ==UserScript==
-// @name        KeyRacing
-// @namespace   q
-// @include     http://klavogonki.ru/g/?gmid=*
-// @version     1
-// @grant       none
-// @run-at 		document-start
+// @name         KeyboardRacingBot
+// @namespace    http://tampermonkey.net/
+// @version      1
+// @author       FessEmpty
+// @match 	 klavogonki.ru/
+// @downloadURL  https://gist.github.com/EmptyBucket/3d33cac791e9ff469b4d963fc41e1393/raw/dungeonCrawlBot.user.js
+// @grant        none
 // ==/UserScript==
 
 function randomTime(seed, dispersionPercent) {
